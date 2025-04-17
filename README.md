@@ -1,2 +1,2 @@
 # MexiRepublic_delimitation
-States and Municipalities
+States and Municipalities of Mexico
